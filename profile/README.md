@@ -1,4 +1,4 @@
-# KOVULA/
+# KOVULA /
 
 **KOVULA** is an open space to explore, learn, and turn ideas into dependable
 tools and robust environments. It is guided by a practical, no-nonsense mindset
