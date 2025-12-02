@@ -3,7 +3,7 @@
 **KOVULA** is an open space to explore, learn, and shape ideas into dependable
 tools and robust environments.
 
-It encourages a practical, no-nonsense mindset—valuing proven solutions over
+It encourages a practical, no-nonsense mindset — valuing proven solutions over
 fashionable trends.
 
 Everything here grows from curiosity, hands-on learning, and the satisfaction
