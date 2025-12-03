@@ -1,21 +1,15 @@
 # KOVULA /
 
-**KOVULA** is an open space to explore, learn, and shape ideas into dependable
+KOVULA is an open space to explore, learn, and shape ideas into dependable
 tools and robust environments.
 
-It encourages a practical, no-nonsense mindset — valuing proven solutions over
-fashionable trends.
+The emphasis is on practicality, led by curiosity grounded in experience and
+a preference for proven approaches. Clarity, maintainability and the avoidance
+of unnecessary complexity are the guiding principles.
 
-Everything here grows from curiosity, hands-on learning, and the satisfaction
-of building things that work: explicit, maintainable, and free of distracting
-complexity.
-
-The name has no intended meaning and is pronounced “ko-view-lah” — /ˈkoʊ.vjuː.lə/.
+The name carries no intended meaning and was chosen for being short and free of
+existing associations. It is pronounced “ko-view-lah” — /ˈkoʊ.vjuː.lə/.
 
 This space collects code, configurations, and tooling used across a set of
-self-hosted services and personal infrastructure. It is a working environment
-focused on clarity, reliability, and iterative refinement.
-
-If you find anything useful here, feel free to explore. KOVULA is a quiet place
-to build, experiment, and keep things in good shape — nothing more complicated
-than necessary.
+self-hosted services and personal infrastructure. It is a quiet, pragmatic
+workspace focused on clarity, reliability, and iterative refinement.
