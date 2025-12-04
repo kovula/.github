@@ -8,7 +8,7 @@ exploration. This dynamic centers on the principles of clarity,
 maintainability and simplicity.
 
 The name carries no intended meaning and was chosen for being short and
-free of existing associations. Pronounced «ko-view-luh»!play, it is stylised
+free of existing associations. Pronounced «ko-view-luh», it is stylised
 with terminal-inspired symbols and a trailing slash to denote a workspace or
 directory.
 
